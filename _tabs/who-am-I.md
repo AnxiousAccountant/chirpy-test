@@ -1,5 +1,5 @@
 ---
-title: Who is the Anxious Accountant?
+title: Who am I?
 icon: fas fa-info-circle
 order: 1
 ---
