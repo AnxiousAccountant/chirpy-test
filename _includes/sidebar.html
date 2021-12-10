@@ -56,12 +56,11 @@
     {% for entry in site.data.contact %}
     {% capture url %}
     {%- if entry.type == 'linkedin' -%}
-    https://uk.linkedin.com/{{ site.linkedin.username }}
+    https://uk.linkedin.com/in/{{ site.linkedin.username }}
     {%- elsif entry.type == 'instagram' -%}
     https://instagram.com/{{ site.instagram.username }}
-    {%- elsif entry.type == 'email' -%}
-    {% assign email = site.social.email | split: '@' %}
-    javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+    {%- elsif entry.type == 'facebook' -%}
+    https://facebook.com/{{ site.facebook.username }}
     {%- elsif entry.type == 'rss' -%}
     {{ "/feed.xml" | relative_url }}
     {%- else -%}

@@ -5,71 +5,74 @@
 {% include lang.html %}
 
 <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted topbar-down">
-
   <div class="access">
-
-    {% include update-list.html %}
-
-    {% if update_list.size > 0 %}
+    {% include update-list.html %} {% if update_list.size > 0 %}
 
     <div id="access-lastmod" class="post">
       <span>{{- site.data.locales[lang].panel.lastmod -}}</span>
       <ul class="post-content pl-0 pb-1 ml-1 mt-2">
-
-        {% for item in update_list %}
-        {% assign index = item | split: "::" | last | plus: 0 %}
-        {% assign post = site.posts[index] %}
-        {% assign url = post.url | relative_url %}
+        {% for item in update_list %} {% assign index = item | split: "::" |
+        last | plus: 0 %} {% assign post = site.posts[index] %} {% assign url =
+        post.url | relative_url %}
         <li><a href="{{ url }}">{{ post.title }}</a></li>
         {% endfor %}
-
       </ul>
-    </div> <!-- #access-lastmod -->
+    </div>
+    <!-- #access-lastmod -->
 
-    {% endif %}
-
-    {% include trending-tags.html %}
-
-    {% if trending_tags.size > 0 %}
+    {% endif %} {% include trending-tags.html %} {% if trending_tags.size > 0 %}
     <div id="access-tags">
       <span>{{- site.data.locales[lang].panel.trending_tags -}}</span>
       <div class="d-flex flex-wrap mt-3 mb-1 mr-3">
-
-        {% for tag_name in trending_tags %}
-        {% assign url = tag_name | slugify | url_encode | prepend: "/tags/" | append: "/" %}
+        {% for tag_name in trending_tags %} {% assign url = tag_name | slugify |
+        url_encode | prepend: "/tags/" | append: "/" %}
         <a class="post-tag" href="{{ url | relative_url }}">{{ tag_name }}</a>
         {% endfor %}
-
       </div>
     </div>
 
     {% endif %}
-  </div> <!-- .access -->
-
+  </div>
+  <!-- .access -->
 
   <!-- BS-toc.js will be loaded at medium priority -->
   <script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js"></script>
-  <div id="toc-wrapper" class="pl-0 pr-4 mb-5" style="border-left-color: var(--main-border-color);">
+  <div
+    id="toc-wrapper"
+    class="pl-0 pr-4 mb-5"
+    style="border-left-color: var(--main-border-color)"
+  >
     {% if include.toc %}
     <span class="pl-3 pt-2 mb-2">
       {{- site.data.locales[lang].panel.toc -}}
     </span>
     <nav id="toc" data-toggle="toc"></nav>
     {% endif %}
-    <br>
+    <br />
     <span class="pl-3 pt-2 mb-2">
       <p>
-        <b>Referal links:</b><br>
-        -- None --
+        <b>Referal links:</b><br />
+        <a href="https://share.octopus.energy/sepia-snow-328">
+          <i class="fab fa-octopus-deploy"></i> Share a £100
+          bill credit when you switch to Octopus Energy.
+        </a>
+        <p>
+        <a href="https://web.archive.org/web/20210727133429/https://www.quidco.com/raf/983867/">
+          <i class="fas fa-money-bill-wave"></i> Join Quidco
+          and get £5 credit after you earn £5 in cashback.
+        </a>
+      </p>
       </p>
     </span>
     <span class="pl-3 pt-2 mb-2">
       <p>
-        This website was helped to create by my son, Isaac.<br><a href="https://www.isaboo.co.uk">Check out his website
-          here.</a>
+        This website was made possible by my son<br /><a
+          href="https://www.isaboo.co.uk"
+          >Check out his website here.</a
+        >
       </p>
+      {% include instagram.html %}
     </span>
   </div>
-
-
-</div> <!-- #panel-wrapper -->
+</div>
+<!-- #panel-wrapper -->

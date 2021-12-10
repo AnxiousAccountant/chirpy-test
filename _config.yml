@@ -20,7 +20,7 @@ timezone: Europe/London
 
 title: Anxious Accountant # the main title
 
-tagline: TBC # it will display as the sub-title
+tagline: www.anxiousaccountant.co.uk # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -28,14 +28,16 @@ description: >- # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://www.anxiousaccountant.co.uk"
 
 linkedin:
   username: andrew-boorman-7851682a
-  # change to your github username
 
 instagram:
-  username: anxiousaccontant # change to your twitter username
+  username: anxiousaccountant 
+
+facebook:
+  username: anxiousaccountant 
 
 social:
   # Change to your full name.
@@ -55,7 +57,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 # ↑ --------------------------
 
 google_analytics:
-  id: "" # fill in your Google Analytics ID
+  id: "G-K8FVGS87NE" # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -74,6 +76,8 @@ google_analytics:
 #
 theme_mode: # [light|dark]
 
+keep_files: ['CNAME']
+
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
@@ -82,7 +86,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets\img\AALogoplain.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

@@ -4,9 +4,8 @@
   icon: "fab fa-linkedin"
 - type: instagram
   icon: "fab fa-instagram"
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: facebook
+  icon: "fab fa-facebook"
 - type: rss
   icon: "fas fa-rss"
   noblank: true
