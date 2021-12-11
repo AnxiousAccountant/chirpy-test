@@ -5,7 +5,7 @@ firsttaste: 26 May 2015
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/WieckseRadler.JPG
+  src: /assets/img/beers/WieckseRadler.JPG
   height: 240
   width: 240
   alt: WieckseRadler

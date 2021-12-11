@@ -5,7 +5,7 @@ firsttaste: 29 May 2016
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BirraMoretti.jpg
+  src: /assets/img/beers/BirraMoretti.jpg
   height: 240
   width: 240
   alt: BirraMoretti

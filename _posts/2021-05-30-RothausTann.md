@@ -5,7 +5,7 @@ firsttaste: 30 May 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Rothaus.JPG
+  src: /assets/img/beers/Rothaus.JPG
   height: 240
   width: 240
   alt: Rothaus

@@ -5,7 +5,7 @@ firsttaste: 01 Sep 2013
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BavariaWit.JPG
+  src: /assets/img/beers/BavariaWit.JPG
   height: 240
   width: 240
   alt: BavariaWit

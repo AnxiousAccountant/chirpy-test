@@ -5,7 +5,7 @@ firsttaste: 01 Oct 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/DoubleStrike.JPG
+  src: /assets/img/beers/DoubleStrike.JPG
   height: 240
   width: 240
   alt: DoubleStrike

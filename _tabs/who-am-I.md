@@ -1,6 +1,6 @@
 ---
 title: Who am I?
-icon: fas fa-info-circle
+icon: fas fa-question-circle
 order: 1
 ---
 

@@ -5,7 +5,7 @@ firsttaste: 13 Jan 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/SchneiderWeisse.JPG
+  src: /assets/img/beers/SchneiderWeisse.JPG
   height: 240
   width: 240
   alt: SchenigerWeisse

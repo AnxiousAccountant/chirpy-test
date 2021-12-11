@@ -5,7 +5,7 @@ firsttaste: 29 Jan 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BigDrop.JPG
+  src: /assets/img/beers/BigDrop.JPG
   height: 240
   width: 240
   alt: BigDrop

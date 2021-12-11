@@ -5,7 +5,7 @@ firsttaste: 21 May 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/GALACTIC.JPG
+  src: /assets/img/beers/GALACTIC.JPG
   height: 240
   width: 240
   alt: BigDropMilk

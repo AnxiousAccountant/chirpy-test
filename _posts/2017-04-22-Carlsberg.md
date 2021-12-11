@@ -5,7 +5,7 @@ firsttaste: 22 Apr 2017
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Carlsberg.jpg
+  src: /assets/img/beers/Carlsberg.jpg
   height: 240
   width: 240
   alt: Carlsberg

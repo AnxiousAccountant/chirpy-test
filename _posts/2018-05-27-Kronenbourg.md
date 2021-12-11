@@ -5,7 +5,7 @@ firsttaste: 27 May 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Kronenbourg.JPG
+  src: /assets/img/beers/Kronenbourg.JPG
   height: 240
   width: 240
   alt: Kronenbourg

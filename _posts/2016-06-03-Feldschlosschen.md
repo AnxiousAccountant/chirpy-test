@@ -5,7 +5,7 @@ firsttaste: 03 Jun 2016
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Feldschlosschen.jpg
+  src: /assets/img/beers/Feldschlosschen.jpg
   height: 240
   width: 240
   alt: Feldschlosschen

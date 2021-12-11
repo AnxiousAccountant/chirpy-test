@@ -5,7 +5,7 @@ firsttaste: 17 Feb 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Fruh.JPG
+  src: /assets/img/beers/Fruh.JPG
   height: 240
   width: 240
   alt: FruhKolsch

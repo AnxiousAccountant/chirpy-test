@@ -5,7 +5,7 @@ firsttaste: 02 Jul 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Hoegaarden.JPG
+  src: /assets/img/beers/Hoegaarden.JPG
   height: 240
   width: 240
   alt: Hoegaarden

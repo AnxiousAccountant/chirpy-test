@@ -5,7 +5,7 @@ firsttaste: 26 May 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/LuckySaint.JPG
+  src: /assets/img/beers/LuckySaint.JPG
   height: 240
   width: 240
   alt: Lucky

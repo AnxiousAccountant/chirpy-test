@@ -5,7 +5,7 @@ firsttaste: 22 Aug 2013
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BavariaPremium.JPG
+  src: /assets/img/beers/BavariaPremium.JPG
   height: 240
   width: 240
   alt: BavariaPrem

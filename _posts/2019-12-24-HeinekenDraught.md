@@ -5,7 +5,7 @@ firsttaste: 24 Dec 2019
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Heineken00Draught.JPG
+  src: /assets/img/beers/Heineken00Draught.JPG
   height: 240
   width: 240
   alt: Heineken

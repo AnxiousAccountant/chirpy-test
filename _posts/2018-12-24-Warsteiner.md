@@ -5,7 +5,7 @@ firsttaste: 24 Dec 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Warsteiner.JPG
+  src: /assets/img/beers/Warsteiner.JPG
   height: 240
   width: 240
   alt: Warsteiner

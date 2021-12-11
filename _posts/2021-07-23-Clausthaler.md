@@ -5,7 +5,7 @@ firsttaste: 23 Jul 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Clausthaler.JPG
+  src: /assets/img/beers/Clausthaler.JPG
   height: 240
   width: 240
   alt: Clausthaler

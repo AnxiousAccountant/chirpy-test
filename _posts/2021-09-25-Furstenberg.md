@@ -5,7 +5,7 @@ firsttaste: 25 Sep 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/furstenberg-pilsener.jpg
+  src: /assets/img/beers/furstenberg-pilsener.jpg
   height: 240
   width: 240
   alt: Furstenberg

@@ -5,7 +5,7 @@ firsttaste: 16 Feb 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BudProhibition.JPG
+  src: /assets/img/beers/BudProhibition.JPG
   height: 240
   width: 240
   alt: Budweiser

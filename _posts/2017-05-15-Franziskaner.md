@@ -5,7 +5,7 @@ firsttaste: 15 May 2017
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Franziskaner.jpg
+  src: /assets/img/beers/Franziskaner.jpg
   height: 240
   width: 240
   alt: Franziskaner

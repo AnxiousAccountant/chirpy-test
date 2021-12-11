@@ -5,7 +5,7 @@ firsttaste: 14 Sep 2007
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BecksBlue.jpg
+  src: /assets/img/beers/BecksBlue.jpg
   height: 240
   width: 240
   alt: BecksBlue

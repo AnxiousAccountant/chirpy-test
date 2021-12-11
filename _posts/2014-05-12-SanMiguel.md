@@ -5,7 +5,7 @@ firsttaste: 12 May 2014
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/san-mig.JPG
+  src: /assets/img/beers/san-mig.JPG
   height: 240
   width: 240
   alt: SanMiguel

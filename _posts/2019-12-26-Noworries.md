@@ -5,7 +5,7 @@ firsttaste: 26 Dec 2019
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/NoWorries.JPG
+  src: /assets/img/beers/NoWorries.JPG
   height: 240
   width: 240
   alt: Noworries

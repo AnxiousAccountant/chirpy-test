@@ -5,7 +5,7 @@ firsttaste: 17 Jun 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/Lager0.JPG
+  src: /assets/img/beers/Lager0.JPG
   height: 240
   width: 240
   alt: LagerBlonde

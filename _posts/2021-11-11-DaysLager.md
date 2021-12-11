@@ -5,7 +5,7 @@ firsttaste: 11 Nov 2021
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/DaysLager.jpg
+  src: /assets/img/beers/DaysLager.jpg
   height: 240
   width: 240
   alt: DaysLager

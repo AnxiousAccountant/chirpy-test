@@ -5,7 +5,7 @@ firsttaste: 27 May 2015
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/WieckseRose.JPG
+  src: /assets/img/beers/WieckseRose.JPG
   height: 240
   width: 240
   alt: WieckseRose

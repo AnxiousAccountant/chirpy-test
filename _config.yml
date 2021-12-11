@@ -76,7 +76,8 @@ google_analytics:
 #
 theme_mode: # [light|dark]
 
-keep_files: ['CNAME']
+keep_files: ['CNAME', '.git']
+destination: C:\Users\spurs\OneDrive\Documents\GitHub\AnxiousAccountant.github.io\
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -86,7 +87,7 @@ keep_files: ['CNAME']
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\img\AALogoplain.png
+avatar: /assets/img/AALogoplain.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -95,7 +96,7 @@ disqus:
   comments: false # boolean type, the global switch for posts comments.
   shortname: "" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-paginate: 10
+paginate: 8
 
 # ------------ The following options are not recommended to be modified ------------------
 

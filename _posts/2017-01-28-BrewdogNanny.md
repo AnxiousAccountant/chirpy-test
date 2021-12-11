@@ -5,7 +5,7 @@ firsttaste: 28 Jan 2017
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/BrewDogNanny.jpg
+  src: /assets/img/beers/BrewDogNanny.jpg
   height: 240
   width: 240
   alt: Brewdog

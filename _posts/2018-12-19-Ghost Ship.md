@@ -5,7 +5,7 @@ firsttaste: 19 Dec 2018
 categories: [Non-Alcoholic Beers]
 tags: [beers]     # TAG names should always be lowercase
 image:
-  src: /assets/img/Beers/GhostShip.JPG
+  src: /assets/img/beers/GhostShip.JPG
   height: 240
   width: 240
   alt: Ghost Ship
