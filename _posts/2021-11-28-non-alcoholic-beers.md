@@ -19,7 +19,7 @@ pin: true
 In November 2010 I had my last alcoholic drink and in the last 10+ years the world of non-alcoholic beers has come on leaps and bounds.
 
 So here is a story of my Non-Alcoholic Beer Journey as I have taken at least one picture of every beer (50 at time of writing) I have had over the years, but have 100s of pictures in my non alcoholic beer album on google photos and the most photographed beer in my collection is Heineken Zero.
-![Beer](/assets/img/beers/beers.gif){: width="180" .right}
+![Beer](/assets/img/beers/Beers.gif){: width="180" .right}
 With most of the beers there is a story, others only worthy of a couple of lines but each given a score out of 10 and as I try new ones they will be added to the list and from 2021 onwards I will be reviewing them as close to trying as possible
 
 <h1> Techniques for non-alcoholic beers</h1>

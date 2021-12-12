@@ -1,37 +1,24 @@
 ---
-title: A new year actually does mean a new me (hopefully)!
-date: 2019-01-13 12:00:00 +0000
+title: It's OKAY to not be OK!
+date: 2019-06-26 12:00:00 +0000
 comments: true
 layout: post
 image:
-  src: /assets/img/newme.jfif
-  width: 720   # in pixels
-  height: 270  # in pixels
+  src: /assets/img/itsokay.jfif
+  width: 300   # in pixels
+  height: 360  # in pixels
   alt: test
 categories: [Mental Health, Anxiety]
 tags: [mental health, anxiety, depression, work]
 ---
-<p>2018 was a difficult year for me (and those close to me), I didn't want to dwell on that too much but if it has taught me one thing it is I will never suffer in silence anymore and thought if anyone out there is reading this and suffering with a mental illness I hope they can learn from my experiences.</p> 
-  <p>I have found that "I'm fine", "I'm OK", "Yes I can do that", "No worries" and things similar to that were something I said a lot last year (and throughout my life) and I would continue to put on the brave face even to those closest to me.</p> 
-  <p>Looking back when I was off with Anxiety and Depression in the summer for just over 3 weeks I returned to work not changing anything, not getting all the support I needed or knew I could get and putting that brave face on and it meant nothing had changed. But I was being told I was doing all the right things by my Doctor but can't help but think I wasn't telling them the truth the whole truth and nothing but the truth.</p> 
-  <p>So fast forward to October and living the lie finally caught up with me, I had hit rock bottom and didn't know where to turn and I thought I shouldn't be feeling like this I have a great wife, 3 lovely kids, a 5 bed detached house with a enjoyable career that I have worked hard to achieve . It was finally time to cry for help now I won't go into details but I didn't do it in the right way but it was the turning point that led me to get the help and supported I really needed, didn't know I could get or if I am being honest didn't want to look for as I thought I shouldn't need that help.</p> 
-  <p>So now those closest to me knew how bad I was, my wife sprang into action and her support was invaluable to get family around me (who I have been too proud to ask for help from) so I wasn't alone whilst she had to kept the day to day family life going and so not to impact on the kids.</p> 
-  <p>I always felt like I needed to be back at work as soon as I felt a little better as I hate having time off work sick, but this time was different with the support of my manager that pressure was taken away and gave me time to accept I have a mental illness and things had to change. I also found out that I was eligible through my work's private medical insurance I could receive 10 sessions with a private counselor and we had occupational health teams that we can work with to support your return to work.</p> 
-  <p>Now I am very lucky I work for a big company and I don't want to go political here but there just isn't enough money provided by the government to support mental health issues in the UK, my doctor's surgery (apart from one receptionist) has been fantastic for me but everything just takes so much time. Swindon is lucky to have the LIFT service <a href="https://lift-swindon.awp.nhs.uk/" target="_blank" rel="nofollow noopener">(Lift Website)</a> which provides great courses to help you manage things but I found when I was feeling bad and going to these courses I couldn't take anything in. Then the wait to see a LIFT practitioner one on one can be months and then you can only see them for a limited time and not regular enough as there are too many people suffering out there.</p> 
-  <p>So I felt I was ready to come back to work just before the Christmas break and it turned out that was perfect as I had a couple of days back in the office and managed to clear most of my 1500 emails I had received and meant when I came back in this year I was ready thanks to my manager and colleagues able to then have 100% focus on the IFRS 17 project which I never really had time to do in 2018 as other projects and business took my focus away and from speaking to my counselor maybe added to the my stress issues even though I had always said I made out that work wasn't an issue to everyone I spoke to and I couldn't say No as for some reason I have always wanted to please!</p> 
-  <p>As I am writing this I have managed 20 hours work last week as part of my phased return and there has been good days and not so good days but I am being open and honest to everyone who is willing to listen. So as I said at the start if all of the above has taught me one thing it is I will never suffer in silence anymore and if anyone out there is reading this and suffering with a mental illness please find someone to talk too!</p> 
-  <p>And finally here are a few other things that have help me other than the people around me:</p> 
-  <ul> 
-   <li>Breathing (This is something that is always there and you can focus on your breathing as a way to distract from thoughts, but also I have been doing the <a href="https://www.drweil.com/videos-features/videos/breathing-exercises-4-7-8-breath/" target="_blank" rel="nofollow noopener">4-7-8 breathing technique developed by Dr Weil</a> which is a simple portable stress antidote.)</li> 
-   <li>Mediation (I have been using the Headspace app and this also has tools to help with sleep look here for more details <a href="https://www.headspace.com/" target="_blank" rel="nofollow noopener">www.headspace.com</a>)</li> 
-   <li>Reflexology (Not only for my Anxiety and Depression but for my sinuses, Reflexology is a relaxing foot (or hand) massage that works on the pressure points in the feet to stimulate and relax the internal organs, more information from my can be found here: <a href="http://reflexologyinoldtown.co.uk/" target="_blank" rel="nofollow noopener">http://reflexologyinoldtown.co.uk/</a>)</li> 
-   <li>Hypnotherapy (Now I was skeptical before this but it isn't like every time my wife clicks her fingers I now cluck like a chicken, the aim to a solution focused hypnotherapy which looks to make you feel more positive about life - more information from my hypnotherapist can be found here: <a href="https://joharrishypnotherapy.com/" target="_blank" rel="nofollow noopener">https://joharrishypnotherapy.com/</a>)</li> 
-   <li>Mindfulness: A practical guide to finding peace in a frantic world (This is a <a href="https://www.amazon.co.uk/dp/074995308X/ref=as_li_tf_til?tag=drdannypenman-21&amp;camp=1406&amp;creative=6394&amp;linkCode=as1&amp;creativeASIN=074995308X&amp;adid=0C65KDVEXA3E12FA555K&amp;" target="_blank" rel="nofollow noopener">book</a> which is based on Mindfulness-Based Cognitive Therapy by Mark Williams and Danny Penman which my counselor recommended to me.)</li> 
-   <li>Matt Haig (The books Reasons to Stay Alive and Notes on a Nervous Planet are a honest look at anxiety and depression, I also follow him on <a href="https://twitter.com/matthaig1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" rel="nofollow noopener">Twitter</a> now.)</li> 
-   <li>Not logging into Facebook.</li> 
-   <li>Not looking at my phone in the bedroom.</li> 
-   <li>Getting out of bed even when I don't feel like it!</li> 
-   <li>Getting out the house even when I don't feel like it even if its just to go for a walk!</li> 
-   <li>Walking.</li> 
-   <li>And Walking.</li> 
-  </ul> 
+Yesterday all my troubles seemed so far away after a weekend spent in bed with sickness and an upset stomach, which looks like it must have been something I ate as luckily nobody else in the family has come down with anything, so I took Monday off as I hadn’t really eaten anything.
+
+So feeling slightly more human yesterday morning I thought it would be a good idea to go back to work but not only was I still physically fragile let’s just say a little more mentally fragile than I could deal with, so for the first time in ages I cried at work (in the toilets) and then on the bus on the way home (when my wife messaged asking if I was OK after I said I was going home) and then again when I finally got home after the hottest bus ride ever (maybe more in relief that anything)
+
+So I keep myself busy working from home until lunch time and I have that hungry/nauseous feeling that you don’t know whether you are coming or going after you haven’t been feeling well, then eat some lunch, my stomach making some strange noises reminding me that my IBS hasn’t been out to play for a while, a quick walk and then home in time for another cry.
+
+Back to work and getting deep into the fun that is accounting for the Variable Fee Approach under IFRS 17 with profits contracts and keeping in touch with colleagues through Skype messages and that was the afternoon done until the kids get back from their dentist appointment which fortunately it wasn’t at two thirty!
+
+So on the work front a productive day and being in the lucky position that I can work from home helps, the distraction of work keeps the black dog at bay most of the time but it proves I still have a long way to go in my journey and I need to keep asking for help and I still find it hard to speak to people about my feelings, so writing them down is going to be a way of letting myself know it’s OKAY not to be OK and reminds me not to push myself too hard especially when I am not feeling physically well.
+
+Working at home again today just put this up in my lunch break as I'm about to take a little walk around the village still feeling nauseous but on the plus side no tears as yet!

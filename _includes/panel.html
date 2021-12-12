@@ -5,7 +5,20 @@
 {% include lang.html %}
 
 <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted topbar-down">
+  
   <div class="access">
+    
+    <div id="access-tags">
+      <span>Who is the Anxious Accountant?</span>
+      <div class="d-flex flex-wrap mt-3 mb-1 mr-3">
+        <a class="post-tag" href="/who-am-I/"><i class="fas fa-question-circle"></i> Who Am I? <i class="fas fa-question-circle"></i></a>
+        <a class="post-tag" href="https://www.linkedin.com/in/andrew-boorman-7851682a/"><i class="fab fa-linkedin"></i> My Linkedin <i class="fab fa-linkedin"></i></a>
+        <a class="post-tag" href="https://www.amazon.co.uk/~/e/B08N4DLBKS"><i class="fab fa-amazon"></i> I'm a published authour <i class="fab fa-amazon"></i></a>
+        <a class="post-tag" href="https://www.instagram.com/anxiousaccountant/"><i class="fab fa-instagram"></i> My Instagram <i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+
+   
     {% include update-list.html %} {% if update_list.size > 0 %}
 
     <div id="access-lastmod" class="post">
@@ -71,7 +84,7 @@
           >Check out his website here.</a
         >
       </p>
-      {% include instagram.html %}
+      
     </span>
   </div>
 </div>
